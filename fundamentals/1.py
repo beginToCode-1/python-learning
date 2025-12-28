@@ -1,1 +1,1 @@
-print ("Hello World, this me Burhan, learning Python!")
+print ("Hello World, this is me Burhan, learning Python!")
