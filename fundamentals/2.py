@@ -14,7 +14,7 @@ dots = "..." * 30
 print("Dots:", dots)
 print(len(dots))
 #boolean in python
-is_false = False
+is_true = False
 age = 20
 can_vote = age >= 18
 print("Can vote:", can_vote)
