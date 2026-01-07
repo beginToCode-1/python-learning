@@ -9,8 +9,9 @@ print("2 to the power of 3 is:", power)
 #lastName = "Khan"
 #fullName = firstName + " " + lastName
 #print("Full Name:", fullName)
-name = "Burhan "
+name = str(input("Enter your name: "))
 string = f"Hello, this is me {name}"
+print(string)
 
 #length of string
 dots = "..." * 30
