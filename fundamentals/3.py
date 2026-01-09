@@ -1,4 +1,4 @@
-temperature = int(input("Enter a number: "))
+temperature =   int(input("Enter a number: "))
 if temperature > 30:
     print("It's a hot day")
     print("It is Recommended to drink plenty of water!!")
