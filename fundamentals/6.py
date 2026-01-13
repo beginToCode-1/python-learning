@@ -6,6 +6,6 @@ test_file = "test.txt"
 print(os.path.exists(test_file))  # True if the file exists
 
 # Open the file in read mode
-with open(test_file, "r") as f:
+with open(test_file, "r+") as f:
     for line in f:
         print(line.strip())  # remove extra spaces and newline
