@@ -9,3 +9,9 @@ print(unique)
 print(my_list.count(3))
 print(my_list[1])
 print(my_list[-1])
+nums = [1, 2, 3, 4, 5]
+print(nums.remove(3))
+print(nums)
+
+for i in nums:
+    print(i)
