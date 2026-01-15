@@ -10,8 +10,7 @@ my_self_dictionary["Status"] = "Student"
 my_self_dictionary["city"] = "Islamabad"
 
 #updating age
-my_self_dictionary["age"] = 22
-print(my_self_dictionary)
+print(my_self_dictionary.update({"age": 22}))
 
 #updated dictionary values only
 print(my_self_dictionary.values())
