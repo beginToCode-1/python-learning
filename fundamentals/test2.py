@@ -1,8 +1,9 @@
 #dictionary
-my_dictionary = {
+my_self_dictionary = {
     "name": "Burhan",
     "age": 21,
 }
-print(my_dictionary.get("name"))
-my_dictionary["city"] = "Islamabad"
-print(my_dictionary)
+print(my_self_dictionary.get("name"))
+my_self_dictionary["Status"] = "Student"
+my_self_dictionary["city"] = "Islamabad"
+print(my_self_dictionary.values())
