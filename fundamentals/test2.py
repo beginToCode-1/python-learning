@@ -12,5 +12,8 @@ my_self_dictionary["city"] = "Islamabad"
 #updating age
 print(my_self_dictionary.update({"age": 22}))
 
+#removing key-value pairs
+del my_self_dictionary["city"]
+
 #updated dictionary values only
 print(my_self_dictionary.values())
