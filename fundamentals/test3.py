@@ -9,3 +9,4 @@ print(my_self_set.remove("banana"))
 print(my_self_set)
 #clearing set
 my_self_set.clear()
+print(my_self_set)
