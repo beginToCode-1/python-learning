@@ -17,5 +17,8 @@ def ai_agent():
     response = generate_response(processed_text)
     print("AI: " + response)
 ai_agent()
+ 
 
+
+print("AI agent session ended.")
 
