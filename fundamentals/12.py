@@ -2,3 +2,5 @@
 def get_user_input(prompt):
     return input(prompt)
 get_user_input("Enter something: ")
+print("Input received.")
+
